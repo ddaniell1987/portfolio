@@ -62,8 +62,26 @@
     
 }
 .site-header__title{
- position: relative;   
+    position: absolute;   
+    font-size: 60px;
+    text-align: center;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
 }
 .main-content__body{
-    position: relative;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    top: 50%;
+    left: 10%;
+    right: 10%;
+    justify-content: center;
+}
+.site-footer{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    left: 40%;
 }
