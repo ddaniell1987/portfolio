@@ -13,8 +13,6 @@ $(document).ready(function(){
             $('.top').hide();
         }
     });
-    //Welcome animation
- 
-  //smooth scrolling
+    
    
 });
